@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1497293258,
+	"version": 1497296429,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -29,6 +29,8 @@
 		"images/pipocs-sheet0.png",
 		"images/pipocscheia-sheet0.png",
 		"images/pipocs2-sheet0.png",
+		"images/sprite2-sheet0.png",
+		"images/play-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",

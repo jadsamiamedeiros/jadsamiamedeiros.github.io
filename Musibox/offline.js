@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1504535413,
+	"version": 1504546380,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -23,7 +23,7 @@
 		"images/fundoopções-sheet0.png",
 		"images/sprite-sheet0.png",
 		"images/fundomenu-sheet0.png",
-		"images/sprite2-sheet0.png",
+		"images/barratempo-sheet0.png",
 		"images/botãosom-sheet0.png",
 		"images/sprite6-sheet0.png",
 		"images/sprite7-sheet0.png",

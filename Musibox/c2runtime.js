@@ -22029,8 +22029,8 @@ cr.behaviors.Pin = function(runtime)
 	behaviorProto.exps = new Exps();
 }());
 cr.getObjectRefTable = function () { return [
-	cr.plugins_.Mouse,
 	cr.plugins_.Audio,
+	cr.plugins_.Mouse,
 	cr.plugins_.Text,
 	cr.plugins_.Sprite,
 	cr.plugins_.Touch,

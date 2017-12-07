@@ -21972,7 +21972,6 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Text.prototype.acts.SetY,
 	cr.behaviors.DragnDrop.prototype.acts.SetEnabled,
 	cr.plugins_.Text.prototype.acts.SetVisible,
-	cr.plugins_.Mouse.prototype.cnds.OnObjectClicked,
 	cr.plugins_.Text.prototype.acts.Destroy,
 	cr.system_object.prototype.acts.Wait,
 	cr.plugins_.Audio.prototype.acts.Stop,

@@ -15,7 +15,7 @@ Criando **minha** _pagina_ ~~principal~~.
 # Portifólio  
 
 ## Games    
-  [nome do jogo] ( jadsamiamedeiros.github.io/GoCornGoOriginal/ )
+  [nome do jogo] (http:www.jadsamiamedeiros.github.io/GoCornGoOriginal/ )
 
 ### Aulas  
 
@@ -30,7 +30,7 @@ __ Itálico
 #s Topicos ou SubTopicos
 *' Adiciona lista nao ordenada   
 1s Criam listas ordenadas
-[nome do jogo](link do jogo)
+[nome do jogo] (link do jogo)
 
 
 * * * 

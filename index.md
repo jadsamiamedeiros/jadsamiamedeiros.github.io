@@ -15,13 +15,14 @@ Criando **minha** _pagina_ ~~principal~~.
 # Portifólio  
 
 ## Games    
-  [nome do jogo] (http:www.jadsamiamedeiros.github.io/GoCornGoOriginal/ )
+  [![Tela.png]] (http:www.jadsamiamedeiros.github.io/GoCornGoOriginal/ )
+
 
 ### Aulas  
 ### Artes
  
  ![Wonder](http://www.geekstitch.co.uk/img/patterns/previews/thumbnails/Wonder_Woman_Logo(400x400).png) "link"
- ![](HelloKitty.png)
+ ![](HelloKitty.png) "arq no repositorio"
 
 * * *   
 
@@ -34,7 +35,8 @@ __ Itálico
 #s Topicos ou SubTopicos  
 *' Adiciona lista nao ordenada   
 1s Criam listas ordenadas   
-[nome do jog](link do jogo)  
+[nome do jog](link do jogo)      
+![imagem] (link ou nome do repositorio)
 
 
 * * * 

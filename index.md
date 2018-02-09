@@ -20,7 +20,8 @@ Criando **minha** _pagina_ ~~principal~~.
 ### Aulas  
 ### Artes
  
- ![Wonder](http://www.geekstitch.co.uk/img/patterns/previews/thumbnails/Wonder_Woman_Logo(400x400).png)
+ ![Wonder](http://www.geekstitch.co.uk/img/patterns/previews/thumbnails/Wonder_Woman_Logo(400x400).png) "link"
+ ![](HelloKitty.png)
 
 * * *   
 

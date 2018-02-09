@@ -20,7 +20,7 @@ Criando **minha** _pagina_ ~~principal~~.
 ### Aulas  
 ### Artes
  
- ![Wonder](http://moziru.com/images/catwoman-clipart-wonder-woman-14.png)
+ ![Wonder](http://www.geekstitch.co.uk/img/patterns/previews/thumbnails/Wonder_Woman_Logo(400x400).png)
 
 * * *   
 
@@ -29,11 +29,11 @@ Criando **minha** _pagina_ ~~principal~~.
 ** Negrito  
 __ Itálico  
 ~~ Riscado 
-3 * Uma barra
+3 * Uma barra  
 #s Topicos ou SubTopicos  
 *' Adiciona lista nao ordenada   
 1s Criam listas ordenadas   
-[nome do jog](link do jogo)
+[nome do jog](link do jogo)  
 
 
 * * * 

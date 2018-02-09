@@ -14,14 +14,14 @@ Criando **minha** _pagina_ ~~principal~~.
 
 # Portifólio  
 
-## Games    
+## Games       
   [![](Tela.png)] (http:www.jadsamiamedeiros.github.io/GoCornGoOriginal/ )
 
 
 ### Aulas  
-### Artes
+### Artes   
  
- ![Wonder](http://www.geekstitch.co.uk/img/patterns/previews/thumbnails/Wonder_Woman_Logo(400x400).png) "link"
+ ![Wonder](http://www.geekstitch.co.uk/img/patterns/previews/thumbnails/Wonder_Woman_Logo(400x400).png) "link"   
  ![](HelloKitty.png) "arq no repositorio"
 
 * * *   

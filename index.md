@@ -15,7 +15,7 @@ Criando **minha** _pagina_ ~~principal~~.
 # Portifólio  
 
 ## Games    
-  [nome do jogo] (jadsamiamedeiros.github.io/GoCornGoOriginal/)
+  [nome do jogo] ( jadsamiamedeiros.github.io/GoCornGoOriginal/ )
 
 ### Aulas  
 

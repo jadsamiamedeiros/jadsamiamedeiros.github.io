@@ -33,7 +33,7 @@ __ Itálico
 #s Topicos ou SubTopicos
 *' Adiciona lista nao ordenada   
 1s Criam listas ordenadas
-["nome do jog"](link do jogo)
+[nome do jog](link do jogo)
 
 
 * * * 

@@ -28,11 +28,11 @@ Criando **minha** _pagina_ ~~principal~~.
 
 ** Negrito  
 __ Itálico  
-~~ Riscado  
+~~ Riscado 
 3 * Uma barra
 #s Topicos ou SubTopicos  
 *' Adiciona lista nao ordenada   
-1s Criam listas ordenadas
+1s Criam listas ordenadas   
 [nome do jog](link do jogo)
 
 

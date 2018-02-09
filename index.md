@@ -15,7 +15,7 @@ Criando **minha** _pagina_ ~~principal~~.
 # Portifólio  
 
 ## Games    
-  [![Tela.png]] (http:www.jadsamiamedeiros.github.io/GoCornGoOriginal/ )
+  [![](Tela.png)] (http:www.jadsamiamedeiros.github.io/GoCornGoOriginal/ )
 
 
 ### Aulas  

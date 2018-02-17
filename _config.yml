@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square imagesf
 external-image: true
-picture: hhttps://www.google.com.br/search?q=jadsamia+medeiros&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjUiey36a3ZAhVMgJAKHRicB78Q_AUICygC&biw=1517&bih=681#imgrc=LjB-E1QTdBJxIM:
+picture: https://www.google.com.br/search?q=jadsamia+medeiros&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjUiey36a3ZAhVMgJAKHRicB78Q_AUICygC&biw=1517&bih=681#imgrc=LjB-E1QTdBJxIM:
 
 # If you want to include your resume, set to true
 # and specify source (external or local).

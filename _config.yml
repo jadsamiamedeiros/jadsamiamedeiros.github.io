@@ -43,7 +43,7 @@ defaults:
   -
     scope:
       path:         ""
-      type:         "posts"
+      type:         "A"
     values:
       layout:       "post"
 

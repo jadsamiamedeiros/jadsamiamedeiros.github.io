@@ -1,16 +1,16 @@
-name:               "Ink"
-description:        "A minimalistic jekyll theme for humans"
+name:               "Jadsamia Medeiros"
+description:        "Gosto de café"
 
 url:                ""
-author:             "thinker3197"
-email:              "jhondoe@abc.com"
-gravatar_hash:      "205e460b479e2e5b48aec07710c08d50"
-twitter:            "jhondoe"
-email:              "jhondoe@abc.com"
-github:             "jhondoe"
-pinterest:          "jhondoe"
-linkedin:           "jhondoe"
-facebook:           "jhondoe"
+#author:             "thinker3197"
+email:              "jadsamiamedeiros11@gmail.com"
+#gravatar_hash:      "205e460b479e2e5b48aec07710c08d50"
+#twitter:            "jhondoe"
+#email:              "jhondoe@abc.com"
+github:             "jadsamiamedeiros"
+#pinterest:          "jhondoe"
+#linkedin:           "jhondoe"
+facebook:           "jadsamia.medeiros"
 
 disqus_shortname:   "thinker3197"
 
@@ -27,8 +27,8 @@ markdown:           kramdown
 nav:
   - name:           "About"
     href:           "/about"
-  - name:           "Download"
-    href:           "/releases"
+ # - name:           "Download"
+  #  href:           "/releases"
 
 sass:
   style:            :compressed

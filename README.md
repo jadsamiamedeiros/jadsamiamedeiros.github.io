@@ -13,7 +13,7 @@ Gosto de café bla bla bla
 <br>
 jogo que ratrata de um milho
     
-  
+ $ jekyll new . --force 
  
   
 

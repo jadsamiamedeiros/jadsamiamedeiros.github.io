@@ -23,7 +23,7 @@
 * * *
 1. ## Go
 <br>
-  [![](jogo1.png)](https://jadsamiamedeiros.github.io/GoCornGoOriginal/)
+  ![](jogo1.png)
   
 
     

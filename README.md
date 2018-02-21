@@ -19,7 +19,7 @@
 
 
 * * *
-#  JOGOS
+#  Jogos
 * * *
 ## Go
 <br>

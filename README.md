@@ -10,9 +10,9 @@ Gosto de café bla bla bla
 * * *
 #  JOGOS
 * * *
- go
+ ##go
 <br>
-jogo que ratrata de um milho
+  jogo que ratrata de um milho
     
  $ jekyll new . --force 
  

@@ -21,7 +21,7 @@
 * * *
 #  Jogos
 * * *
-1. ## Go
+1. ### Go
  &emsp; &emsp; [![](jogo1.png)](jadsamiamedeiros.github.io/GoCornGoOriginal/)  
 * **SOBRE O JOGO**
 <br>

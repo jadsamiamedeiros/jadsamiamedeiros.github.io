@@ -1,5 +1,5 @@
 
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  ![](minha.png) 
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp;  ![](minha.png) 
 <br>
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; &ensp; **JADSAMIA MEDEIROS**
 <br>
@@ -14,8 +14,8 @@
 <br>
 <br>
 # Sobre
-      Sou aluna do IFRN-CM, atualmente cursando porgramação de jogos digitais, 
-      estou no 3º ano
+       Sou aluna do IFRN-Ceará-Mirim, atualmente estou no 3° ano
+      cursando programação de jogos digitais
 
 
 * * *

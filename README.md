@@ -22,7 +22,21 @@
 #  Jogos
 * * *
 1. ## Go
- &emsp; &emsp; &emsp; [![](jogo1.png)](jadsamiamedeiros.github.io/GoCornGoOriginal/)  
+ &emsp; &emsp; [![](jogo1.png)](jadsamiamedeiros.github.io/GoCornGoOriginal/)  
+**SOBRE O JOGO**
+<br>
+_o jogo retrata um milho que tenta fugir de ser comido em plena festa de São João_
+<br>
+<br>
+2. ## Go
+ &emsp; &emsp; [![](jogo2.png)](jadsamiamedeiros.github.io/GoCornGoOriginal/)  
+**SOBRE O JOGO**
+<br>
+_o jogo retrata um milho que tenta fugir de ser comido em plena festa de São João_
+<br>
+<br>
+3. ## Go
+ &emsp; &emsp; [![](jogo3.png)](jadsamiamedeiros.github.io/GoCornGoOriginal/)  
 **SOBRE O JOGO**
 <br>
 _o jogo retrata um milho que tenta fugir de ser comido em plena festa de São João_

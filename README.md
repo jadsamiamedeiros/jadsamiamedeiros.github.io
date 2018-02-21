@@ -14,8 +14,8 @@
 <br>
 <br>
 # Sobre
-                      Sou aluna do IFRN-Ceará-Mirim, atualmente estou no 3° ano
-                    cursando o técnico em Programação de Jogos Digitais
+                           Sou aluna do IFRN-Ceará-Mirim, atualmente estou no 3° ano
+                              cursando o técnico em Programação de Jogos Digitais
 
 
 * * *

@@ -1,7 +1,7 @@
 #&nbsp; é espaço
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  ![](minha.png) 
 <br>
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; **JADSAMIA MEDEIROS**
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; &ensp; **JADSAMIA MEDEIROS**
 <br>
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; &emsp; &emsp;  _Curso Jogos Digitais
 <br>

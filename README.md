@@ -14,7 +14,8 @@
 <br>
 <br>
 # Sobre
-      _Sou aluna do IFRN-CM, atualmente cursando porgramação de jogos digitais, estou no 3º ano_
+      Sou aluna do IFRN-CM, atualmente cursando porgramação de jogos digitais, 
+      estou no 3º ano
 
 
 * * *

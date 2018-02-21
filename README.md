@@ -10,7 +10,7 @@ Gosto de café bla bla bla
 * * *
 #  JOGOS
 * * *
- ##go
+ ## Go
 <br>
   jogo que ratrata de um milho
     

@@ -3,7 +3,8 @@ Gosto de café bla bla bla
 
 * * *
 # Sobre
-   ![](minha.jpg) 
+   &nbsp ![](minha.jpg) 
+<br>
  _Sou aluna do IFRN-CM, atualmente cursando porgramação de jogos digitais, estou no 3º ano_
 
 * * *

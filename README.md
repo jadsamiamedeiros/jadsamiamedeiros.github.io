@@ -3,13 +3,13 @@
 <br>
 **JADSAMIA MEDEIROS**
 <br>
-_Curso Jogos Digitais
+                                                           _Curso Jogos Digitais
 <br>
-17 anos
+                                                                   17 anos
 <br>
-Natal/RN
+                                                                    Natal/RN
 <br>
-Gosto de café
+                                                                  Gosto de café_
 # Sobre
  _Sou aluna do IFRN-CM, atualmente cursando porgramação de jogos digitais, estou no 3º ano_
 

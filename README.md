@@ -1,4 +1,4 @@
-#&nbsp; é espaço
+
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp;  ![](minha.png) 
 <br>
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; &ensp; **JADSAMIA MEDEIROS**
@@ -10,8 +10,11 @@
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; &ensp;  &emsp; &emsp;  Natal/RN
 <br>
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Gosto de caf_
+<br>
+<br>
+<br>
 # Sobre
- _Sou aluna do IFRN-CM, atualmente cursando porgramação de jogos digitais, estou no 3º ano_
+<p></p>  _Sou aluna do IFRN-CM, atualmente cursando porgramação de jogos digitais, estou no 3º ano_
 
 * * *
 #  JOGOS

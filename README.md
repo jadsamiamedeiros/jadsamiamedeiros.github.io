@@ -26,7 +26,7 @@
 <br>
 * **SOBRE O JOGO**
 <br>
-  _o jogo retrata um milho que tenta fugir de ser comido em plena festa de São João_
+_o jogo retrata um milho que tenta fugir de ser comido em plena festa de São João_
   
 
     

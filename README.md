@@ -22,8 +22,7 @@
 #  Jogos
 * * *
 1. ## Go
-<br>
-  ![](jogo1.png)
+ &emsp; &emsp; &emsp; &emsp; [![](jogo1.png)](jadsamiamedeiros.github.io/GoCornGoOriginal/)  
   
 
     

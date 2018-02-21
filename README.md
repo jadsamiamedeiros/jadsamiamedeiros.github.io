@@ -23,9 +23,9 @@
 * * *
 1. ## Go
 <br>
-1 jogo que ratrata de um milho
-2
-3
+  [![](jogo1.png)](https://jadsamiamedeiros.github.io/GoCornGoOriginal/)
+  
+
     
  $ jekyll new . --force 
  

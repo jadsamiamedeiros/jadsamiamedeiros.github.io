@@ -45,7 +45,7 @@ _Esse foi o terceiro jogo da máteria de oficina, onde o jogo brinca com o seu n
 
 * * *
 # Mapa de Influência
-### Este é um mapa que contem artes que me influenciam ao fazer as artes dos jogos ou no desenvolvimento do proprio jogo
+### Este é um mapa que contém artes que me influenciam ao fazer as artes dos jogos ou no desenvolvimento.
 <br>
  ![](mapinfluencer.png)
   

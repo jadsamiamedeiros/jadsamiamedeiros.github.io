@@ -33,7 +33,7 @@ _Esse foi o primeiro jogo da máteria de oficina e nele retrata um milho que ten
  &emsp; &emsp; [![](jogo2.png)](jadsamiamedeiros.github.io/GoCornGoOriginal/)  
 * **SOBRE O JOGO**
 <br>
-_Esse foi o segundo jogo da máteria de oficina com o tema relacionado a mensagem, no jogo resgata a cultura do jokebox onde o jogador terá que adivinha a cada fase 2 ritmos aleatórios _
+_Esse foi o segundo jogo da máteria de oficina com o tema relacionado a mensagem, no jogo resgata a cultura do jokebox onde o jogador terá que adivinha a cada fase 2 ritmos aleatórios_
 <br>
 <br>
 3. ## Random Quiz

@@ -26,14 +26,14 @@
  &emsp; &emsp; [![](jogo1.png)](jadsamiamedeiros.github.io/GoCornGoOriginal/)  
 * **SOBRE O JOGO**
 <br>
-### _o jogo retrata um milho que tenta fugir de ser comido em plena festa de São João_
+_Esse foi o primeiro jogo da máteria de oficina e nele retrata um milho que tenta fugir de ser comido em plena festa de São João. O jogo é em plataforma e possui 2 fases._
 <br>
 <br>
 2. ## Go
  &emsp; &emsp; [![](jogo2.png)](jadsamiamedeiros.github.io/GoCornGoOriginal/)  
 * **SOBRE O JOGO**
 <br>
-_o jogo retrata um milho que tenta fugir de ser comido em plena festa de São João_
+_Esse foi o primeiro jogo da máteria de oficina com o tema relacionado a mensagem, no jogo resgata a cultura do jokebox onde o jogador terá que adivinha  _
 <br>
 <br>
 3. ## Go
@@ -50,7 +50,7 @@ _o jogo retrata um milho que tenta fugir de ser comido em plena festa de São Jo
 <br>
 <br>
 <br>
-&emsp; &emsp; &emsp; [![](githubmenor.png)](https://github.com/jadsamiamedeiros) [![](facemenor.png)](https://www.facebook.com/jadsamia.medeiros) [![](emailmenor.png)](jadsamiamedeiros11@gmail.com) [![](instamenor.png)](https://www.instagram.com/jade_medeiros_/?hl=pt-br)
+&emsp; &emsp; &emsp; [![](githubmenor.png)](https://github.com/jadsamiamedeiros) [![](facemenor.png)](https://www.facebook.com/jadsamia.medeiros) [![](emailmenor.png)](mailto:jadsamiamedeiros11@gmail.com) [![](instamenor.png)](https://www.instagram.com/jade_medeiros_/?hl=pt-br)
  <br>
  $ jekyll new . --force 
  

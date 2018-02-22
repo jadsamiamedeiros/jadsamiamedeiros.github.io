@@ -45,7 +45,8 @@ _Esse foi o terceiro jogo da máteria de oficina, onde o jogo brinca com o seu n
 
 * * *
 # Mapa de Influência
- ### Este é um mapa que contem artes que me influenciam ao fazer as artes dos jogos ou no desenvolvimento do proprio jogo
+### Este é um mapa que contem artes que me influenciam ao fazer as artes dos jogos ou no desenvolvimento do proprio jogo
+<br>
  ![](mapinfluencer.png)
   
 <br>
@@ -53,9 +54,10 @@ _Esse foi o terceiro jogo da máteria de oficina, onde o jogo brinca com o seu n
 <br>
 <br>
 <br>
+
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; [![](githubmenor.png)](https://github.com/jadsamiamedeiros) [![](facemenor.png)](https://www.facebook.com/jadsamia.medeiros) [![](emailmenor.png)](mailto:jadsamiamedeiros11@gmail.com) [![](instamenor.png)](https://www.instagram.com/jade_medeiros_/?hl=pt-br)
  <br>
- $ jekyll new . --force 
+ 
  
   
 

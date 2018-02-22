@@ -9,7 +9,7 @@
 <br>
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; &ensp;  &emsp; &emsp;  Natal/RN
 <br>
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; Gosto de caf_
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; Gosto de café, paçoca, de assistir desenhos e séries_
 <br>
 <br>
 <br>
@@ -22,21 +22,21 @@
 #  Jogos
 
 * * *
-1. ## Go
+1. ## Go Corn Go
  &emsp; &emsp; [![](jogo1.png)](jadsamiamedeiros.github.io/GoCornGoOriginal/)  
 * **SOBRE O JOGO**
 <br>
 _Esse foi o primeiro jogo da máteria de oficina e nele retrata um milho que tenta fugir de ser comido em plena festa de São João. O jogo é em plataforma e possui 2 fases._
 <br>
 <br>
-2. ## Go
+2. ## Musibox
  &emsp; &emsp; [![](jogo2.png)](jadsamiamedeiros.github.io/GoCornGoOriginal/)  
 * **SOBRE O JOGO**
 <br>
 _Esse foi o segundo jogo da máteria de oficina com o tema relacionado a mensagem, no jogo resgata a cultura do jokebox onde o jogador terá que adivinha a cada fase 2 ritmos aleatórios _
 <br>
 <br>
-3. ## Go
+3. ## Random Quiz
  &emsp; &emsp; [![](jogo3.png)](jadsamiamedeiros.github.io/GoCornGoOriginal/)  
 * **SOBRE O JOGO**
 <br>

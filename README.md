@@ -56,7 +56,7 @@ _o jogo retrata um milho que tenta fugir de ser comido em plena festa de São Jo
   
   
   
-  [![](githubmenor.png)](https://github.com/jadsamiamedeiros)
+  [![](githubmenor.png)](https://github.com/jadsamiamedeiros) [![](facemenor.png)](https://github.com/jadsamiamedeiros) [![](emailmenor.png)](https://github.com/jadsamiamedeiros) [![](instamenor.png)](https://github.com/jadsamiamedeiros)
  $ jekyll new . --force 
  
   

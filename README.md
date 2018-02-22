@@ -48,6 +48,14 @@ _o jogo retrata um milho que tenta fugir de ser comido em plena festa de São Jo
 ### este é um mapa que contem artes que me influenciam ao fazer as artes dos jogos ou no desenvolvimento do proprio jogo
   
 
+  
+  
+  
+  
+  
+  
+  
+  
   [![](githubmenor.png)](https://github.com/jadsamiamedeiros)
  $ jekyll new . --force 
  

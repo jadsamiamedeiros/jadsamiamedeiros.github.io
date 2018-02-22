@@ -9,7 +9,7 @@
 <br>
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; &ensp;  &emsp; &emsp;  Natal/RN
 <br>
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Gosto de café, paçoca, de assistir desenhos e séries_
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Gosto de café, paçoca, de assistir desenhos e séries_
 <br>
 <br>
 <br>
@@ -54,9 +54,9 @@ _Esse foi o terceiro jogo da máteria de oficina, onde o jogo brinca com o seu n
 <br>
 <br>
 <br>
-&emsp; &emsp; &emsp; &emsp; **Contatos**
+&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; **Contatos**
 <br>
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; [![](githubmenor.png)](https://github.com/jadsamiamedeiros) [![](facemenor.png)](https://www.facebook.com/jadsamia.medeiros) [![](emailmenor.png)](mailto:jadsamiamedeiros11@gmail.com) [![](instamenor.png)](https://www.instagram.com/jade_medeiros_/?hl=pt-br)
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; [![](githubmenor.png)](https://github.com/jadsamiamedeiros) [![](facemenor.png)](https://www.facebook.com/jadsamia.medeiros) [![](emailmenor.png)](mailto:jadsamiamedeiros11@gmail.com) [![](instamenor.png)](https://www.instagram.com/jade_medeiros_/?hl=pt-br)
  <br>
  
  
